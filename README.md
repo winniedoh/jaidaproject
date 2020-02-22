@@ -1,1 +1,3 @@
-# jaidaproject
+# maven-project
+
+Simple Maven Project
